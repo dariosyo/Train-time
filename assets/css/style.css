@@ -1,0 +1,8 @@
+#schedule-table th, td {
+    display: inline-block;
+    width: 16.575%;
+  }
+  .jumbotron{
+      background-color: rgb(27, 19, 95);
+      color: rgb(253, 253, 253);
+  }
